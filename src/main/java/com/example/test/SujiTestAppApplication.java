@@ -10,6 +10,6 @@ public class SujiTestAppApplication {
 		SpringApplication.run(SujiTestAppApplication.class, args);
 	}
 	
-	//change - 1
+	//change - 2
 
 }
